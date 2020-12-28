@@ -1,5 +1,5 @@
 # Python-Snippets
-A collection of random Python3 Gists that I have published.
+A collection of Python3 Gists that I have published.
 
 # Automation
 [Connatix Video Downloader](https://gist.github.com/chadgroom/cb8e23bc7df199a945e278694953751a)
